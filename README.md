@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <p>
     <a href="https://yolovision.ultralytics.com/" target="_blank">
@@ -499,3 +500,6 @@ For YOLOv5 bug reports and feature requests please visit [GitHub Issues](https:/
 </div>
 
 [tta]: https://docs.ultralytics.com/yolov5/tutorials/test_time_augmentation
+=======
+# project
+>>>>>>> 5a571480a27985622cb44695b2eb09f9774613b1
